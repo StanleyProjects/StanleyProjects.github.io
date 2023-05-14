@@ -1,2 +1,2 @@
 # StanleyProjects.github.io
-The organization site.
+The organization [site](https://StanleyProjects.github.io/).
